@@ -9,11 +9,13 @@ Developed using:
         Tailwind CSS Framework for Styling 
         JWToken for user session authentication
 
-_This is a fork from (https://github.com/peternav2/SWE-Project/tree/main)_
-_Some of my last contributions in the project can be found under branch "development-rodo"._
 
-**Disclaimer: This was a group project, the code is a combined effort of 4 developers including myself.**
+**Disclaimers:**
 
+        This was a group project, the code is a combined effort of 4 developers including myself.
+        This is a fork from (https://github.com/peternav2/SWE-Project/tree/main)
+        Some of my last contributions in the project can be found under branch "development-rodo
+        
 Website currently hosted here: https://ratemydininghall.onrender.com
 
 

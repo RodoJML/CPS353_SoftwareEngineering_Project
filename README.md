@@ -25,3 +25,12 @@ Website currently hosted here: https://ratemydininghall.onrender.com
 
 ## Database modeling
 [dataBaseModelingDraft.pdf](https://github.com/RodoJML/CPS353_SoftwareEngineering_Project/files/12785847/dataBaseModelingDraft.pdf)
+
+## Project Proposal
+[Project_Proposal_Doc.pdf](https://github.com/RodoJML/CPS353_SoftwareEngineering_Project/files/12785948/Project_Proposal_Doc.pdf)
+
+## Software Design
+[Software_Design_Doc.pdf](https://github.com/RodoJML/CPS353_SoftwareEngineering_Project/files/12785952/Software_Design_Doc.pdf)
+
+## Keynote (Demo)
+[SEPresentation.pptx](https://github.com/RodoJML/CPS353_SoftwareEngineering_Project/files/12785959/SEPresentation.pptx)

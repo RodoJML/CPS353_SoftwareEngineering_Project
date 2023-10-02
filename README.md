@@ -3,8 +3,11 @@ Project developed at State University of New York on 2023, course CPS353 Softwar
 
 Objective: Web app to rate and share feedback on the different meals served at the universities dining halls.
 
-Full stack webapp developed on M.E.R.N stack, Tailwind for the styling and JWToken for authentication.
+Developed using:
 
+        M.E.R.N stack
+        Tailwind
+        JWToken
 
     This is a fork from (https://github.com/peternav2/SWE-Project/tree/main)
     Some of my last contributions in the project can be found under branch "development-rodo". 

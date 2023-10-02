@@ -1,7 +1,7 @@
 # CPS353 Software Engineering Project
 Project developed at State University of New York on 2023, course CPS353 Software Engineering.
 
-    Web app to rate and share feedback on the different meals served at the universities dining halls.
+Objective: Web app to rate and share feedback on the different meals served at the universities dining halls.
 
 Full stack webapp developed on M.E.R.N stack, Tailwind for the styling and JWToken for authentication.
 

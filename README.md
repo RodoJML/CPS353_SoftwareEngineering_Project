@@ -9,7 +9,7 @@ Web application objective is to rate the different meals served in the universit
 
 _* **Disclaimer**: This was a group project, the code is a combined effort of 4 developers including myself._
 
-Website currently hosted here:
+Website currently hosted here: https://ratemydininghall.onrender.com
 
 
 ## Class Diagram

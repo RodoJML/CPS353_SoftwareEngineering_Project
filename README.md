@@ -20,7 +20,7 @@ Website currently hosted here: https://ratemydininghall.onrender.com
 
 
 ## Class Diagram
-[classDiagramDraft.pdf](https://github.com/RodoJML/CPS353_SoftwareEngineering_Project/files/12785816/classDiagramDraft.pdf)
+<img width="1292" alt="classDiagram" src="https://github.com/RodoJML/CPS353_SoftwareEngineering_Project/assets/63088555/b8feaa29-ba7e-41fc-96c4-c8d6333a2727">
 
 ## Use Case Diagram
 [useCaseDiagram.pdf](https://github.com/RodoJML/CPS353_SoftwareEngineering_Project/files/12785831/useCaseDiagram.pdf)

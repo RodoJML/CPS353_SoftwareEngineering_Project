@@ -23,13 +23,14 @@ Website currently hosted here: https://ratemydininghall.onrender.com
 <img width="1292" alt="classDiagram" src="https://github.com/RodoJML/CPS353_SoftwareEngineering_Project/assets/63088555/b8feaa29-ba7e-41fc-96c4-c8d6333a2727">
 
 ## Use Case Diagram
-[useCaseDiagram.pdf](https://github.com/RodoJML/CPS353_SoftwareEngineering_Project/files/12785831/useCaseDiagram.pdf)
+<img width="786" alt="useCase" src="https://github.com/RodoJML/CPS353_SoftwareEngineering_Project/assets/63088555/0dc1718b-690e-4420-a12a-83b928386e86">
 
 ## Sequence Diagram
-[sequenceDiagramDraft.pdf](https://github.com/RodoJML/CPS353_SoftwareEngineering_Project/files/12785846/sequenceDiagramDraft.pdf)
+<img width="861" alt="sequence1" src="https://github.com/RodoJML/CPS353_SoftwareEngineering_Project/assets/63088555/be2bb204-2ac0-4efd-8f6d-73a47918fe64">
+<img width="860" alt="sequence2" src="https://github.com/RodoJML/CPS353_SoftwareEngineering_Project/assets/63088555/042af4fb-040d-43d8-9eb4-fe401ef024cb">
 
 ## Database modeling
-[dataBaseModelingDraft.pdf](https://github.com/RodoJML/CPS353_SoftwareEngineering_Project/files/12785847/dataBaseModelingDraft.pdf)
+<img width="1483" alt="dbmodeling" src="https://github.com/RodoJML/CPS353_SoftwareEngineering_Project/assets/63088555/b6e91cf7-e431-42d5-bd6a-57aa8b63cc2a">
 
 ## Project Proposal
 [Project_Proposal_Doc.pdf](https://github.com/RodoJML/CPS353_SoftwareEngineering_Project/files/12785948/Project_Proposal_Doc.pdf)

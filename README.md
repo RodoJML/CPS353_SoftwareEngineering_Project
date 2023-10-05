@@ -10,7 +10,7 @@ Developed using:
         JWToken for user session authentication
 
 
-**Disclaimers:**
+**Disclaimer:**
 
         This was a group project, the code is a combined effort of 4 developers including myself.
         This is a fork from (https://github.com/peternav2/SWE-Project/tree/main)

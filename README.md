@@ -1,6 +1,8 @@
 # CPS353 Software Engineering Project
 Project developed at State University of New York on 2023, course CPS353 Software Engineering.
 
+⚠️ DEVELOPMENT BRANCH CONTAINS THE COMPLETE PROJECT 
+
 Objective: Web app to rate and share feedback on the different meals served at the universities dining halls.
 
 Developed using:

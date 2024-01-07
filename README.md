@@ -3,6 +3,8 @@ Project developed at State University of New York on 2023, course CPS353 Softwar
 
 Objective: Web app to rate and share feedback on the different meals served at the universities dining halls.
 
+⚠️ LOOK AT THE "DEVELOPMENT" BRANCH FOR THE COMPLETE PROJECT
+
 Developed using:
 
         M.E.R.N stack
